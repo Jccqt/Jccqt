@@ -1,1 +1,1 @@
-Naknamputcha pala tong programming eh
+Pagod nko mag code mga bai
