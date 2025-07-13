@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Jc Calayag</h1>
-<h3 align="center">A student from Philippines</h3>
+### Hi there 👋
+[![](https://github.com/Jccqt/Jccqt/blob/main/chat.svg)](https://www.facebook.com/Jccccqt)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jccqt&label=Profile%20views&color=0e75b6&style=flat" alt="jccqt" /> </p> 
 <br />
