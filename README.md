@@ -16,6 +16,8 @@
 ### GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jccqt&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jccqt&theme=dark" alt="jccqt" /></p>
+
+<img src="https://raw.githubusercontent.com/Jccqt/Jccqt/output/snake.svg" alt="Snake animation" />
 <br />
 
 #
