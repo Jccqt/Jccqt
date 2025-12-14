@@ -21,18 +21,6 @@
 <br />
 
 #
-
-### Top Projects
-[![C-Sharp](https://github-readme-stats.vercel.app/api/pin/?username=Jccqt&repo=C-Sharp&theme=dark)](https://github.com/Jccqt/C-Sharp)
-[![DAN_Junkshop_Management_System](https://github-readme-stats.vercel.app/api/pin/?username=Jccqt&repo=DAN_Junkshop_Management_System&theme=dark)](https://github.com/Jccqt/DAN_Junkshop_Management_System)
-[![PC_User_Detection](https://github-readme-stats.vercel.app/api/pin/?username=Jccqt&repo=PC_User_Detection&theme=dark)](https://github.com/Jccqt/PC_User_Detection)
-[![Match_Pair_Game](https://github-readme-stats.vercel.app/api/pin/?username=Jccqt&repo=Match_Pair_Game&theme=dark)](https://github.com/Jccqt/Match_Pair_Game)
-[![Web-Projects](https://github-readme-stats.vercel.app/api/pin/?username=Jccqt&repo=Web-Projects&theme=dark)](https://github.com/Jccqt/Web-Projects)
-<br />
-
-#
-
-### Connect with me
 <p align="left">
 <a href="https://fb.com/jccccqt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jccccqt" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jcqtt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jcqtt" height="30" width="40" /></a>
