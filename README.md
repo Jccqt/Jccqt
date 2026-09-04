@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![](https://github.com/Jccqt/Jccqt/blob/main/chat.svg)](https://www.facebook.com/Jccccqt)
+[![Chat](./chat.svg)](https://www.linkedin.com/in/jose-crisanto-calayag-3113073b3)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jccqt&label=Profile%20views&color=0e75b6&style=flat" alt="jccqt" /> </p> 
